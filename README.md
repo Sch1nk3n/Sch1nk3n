@@ -4,16 +4,18 @@ C#/.NET (Blazor), Python & Unity.
 I build clean, tested projects – from web-apps to prototypes.
 
 **Stack**  
-![.NET](https://img.shields.io/badge/.NET-8.0-blueviolet) 
+![.NET](https://img.shields.io/badge/.NET-9.0-blueviolet) 
 ![Blazor](https://img.shields.io/badge/Blazor-Server%2FWASM-purple) 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB) 
 ![Unity](https://img.shields.io/badge/Unity-GameDev-black)
 
-**I'm currently learning:** Blazor Patterns, Testing/CI, Security-Basics, Unity-Gameplay-Loops
+**I'm currently learning:** 
+Blazor Patterns, Testing/CI, Security-Basics, Unity-Gameplay-Loops
 
 **I'm currently working on:**
 
-**How to reach me:** [LinkedIn](#) · E-Mail: dressel.fabian@gmail.com
+**How to reach me:** 
+[LinkedIn](#) · E-Mail: dressel.fabian@gmail.com
 
 <!--
 **Sch1nk3n/Sch1nk3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
