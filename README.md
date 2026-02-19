@@ -7,7 +7,7 @@ I build clean, tested projects – from web-apps to prototypes.
 ![.NET](https://img.shields.io/badge/.NET-10.0-blueviolet) 
 ![Blazor](https://img.shields.io/badge/Blazor-Server%2FWASM-purple) 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB) 
-![AI](https://img.shields.io/badge/AI-Engineering-blue)
+![AI](https://img.shields.io/badge/AI-Engineering-lightgreen)
 ![Unity](https://img.shields.io/badge/Unity-GameDev-black)
 
 **I'm currently learning:** 
