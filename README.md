@@ -2,6 +2,7 @@
 
 C#/.NET (Blazor), Python & Unity.
 I build clean, tested projects – from web-apps to prototypes.
+I'm also confident in using AI the right way so the project stays maintainable.
 
 **Stack**  
 ![.NET](https://img.shields.io/badge/.NET-10.0-blueviolet) 
