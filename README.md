@@ -1,6 +1,6 @@
 # Hi there, I am Fabian!
 
-C#/.NET (Blazor), Python & Unity.
+C#/.NET (Blazor) & Python.
 I build clean, tested projects – from web-apps to prototypes.
 I'm also confident in using AI the right way so the project stays maintainable.
 
@@ -12,10 +12,7 @@ I'm also confident in using AI the right way so the project stays maintainable.
 ![Unity](https://img.shields.io/badge/Unity-GameDev-black)
 
 **I'm currently learning:** 
-AI-Workflows, Blazor Patterns, Testing/CI, Security, Unity-Gameplay-Loops
-
-**I'm currently working on:**
-Blazor WASM application for job-applications
+AI-Workflows, Testing/CI, Security
 
 **How to reach me:** 
 [LinkedIn](#) · E-Mail: dressel.fabian@gmail.com
