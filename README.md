@@ -9,7 +9,6 @@ I'm also confident in using AI the right way so the project stays maintainable.
 ![Blazor](https://img.shields.io/badge/Blazor-Server%2FWASM-purple) 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB) 
 ![AI](https://img.shields.io/badge/AI-Engineering-lightgreen)
-![Unity](https://img.shields.io/badge/Unity-GameDev-black)
 
 **I'm currently learning:** 
 AI-Workflows, Testing/CI, Security
